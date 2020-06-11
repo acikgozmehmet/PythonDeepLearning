@@ -8,5 +8,5 @@ print("Division (float) x / y : " + str(first_number / second_number))
 print("Division (floor) x // y : " + str(first_number // second_number))
 print("Modulus x % y : " + str(first_number % second_number))
 print("Power x ** y : " + str(first_number ** second_number))
-print("Power y ** x : " + str(first_number ** second_number))
+print("Power y ** x : " + str(second_number ** first_number))
 
